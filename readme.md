@@ -6,8 +6,8 @@ NodeJs REST Api created to consume TMDb REST API. You can use the api with this 
 ## Getting Started
 ```
 # clone repo
-$ git clone https://github.com/daniloab/rest-movies-backend.git
-$ cd rest-movies-backend
+$ git clone https://github.com/daniloab/movies-station-backend.git
+$ cd movies-station-backend
 
 # install dependencies
 $ yarn install
