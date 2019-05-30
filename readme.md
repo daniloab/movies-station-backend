@@ -1,7 +1,7 @@
 # Movies TMDb REST API
 NodeJs REST Api created to consume TMDb REST API. You can use the api with this link below:
 
-[https://movies-station-backend.herokuapp.com/](https://movies-station-backend.herokuapp.com/) 
+[https://backend-movies-station.herokuapp.com/movies/](https://backend-movies-station.herokuapp.com/movies/) 
 
 ## Getting Started
 ```
